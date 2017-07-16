@@ -1,4 +1,4 @@
-# ember-cli-couch and ember-cli-sofa dockerized couches for testing
+# docker-compose.yml for ember-cli-couch and ember-cli-sofa testing
 
 ```
 $ cd sofa-couches
