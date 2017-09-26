@@ -5,8 +5,8 @@ services:
     env_file: environment
     ports:
       - "6016:5984"
-  couch-2.0:
-    build: couchdb-2.0
+  couch-2.1.0:
+    build: couchdb-2.1
     env_file: environment
     ports:
       - "6020:5984"
